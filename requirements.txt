@@ -2,3 +2,4 @@ glob2
 streamlit
 numpy==1.19.2
 opencv-python==4.4.0.44
+python3==3.9.6
