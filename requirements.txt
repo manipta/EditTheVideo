@@ -1,4 +1,3 @@
-opencv-python
-opencv-python-headless
-glob2
-streamlit
+opencv-python==1.22.3
+glob2==0.7
+streamlit==1.11.1
