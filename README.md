@@ -8,6 +8,10 @@ I had created a python code for Converting any <b><i>Mp4 Video to Gray Scale</i>
 
 Now I am extending it further to control the <i><b>video playback Speed</b></i> with the same Gray Scale option.
 # TRY IT HERE
-<b> The web-app is live at [here](https://manipta-steamlitheroku-app-ux4uqk.streamlitapp.com/)</b>
- 
+<b> The web-app is live at [here](https://manipta-steamlitheroku-app-ux4uqk.streamlitapp.com/)</b> 
+
+<br>
+
+![image](https://user-images.githubusercontent.com/72307020/181862123-4be977fe-ab89-44f8-b1d1-698d54e037f4.png)
+
 <i>Note:</i>I havn't implemented audio with it🙂.Will implement soon.
