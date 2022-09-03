@@ -1,3 +1,5 @@
+## NOTE: I have Moved the main python File to another Repo. Just [CLICK HERE!!](https://github.com/manipta/EditTheVideo2)
+
 # EditTheVideo-The Web APP
 I had created a python code for Converting any <b><i>Mp4 Video to Gray Scale</i></b> in one of my repository [Check Here](https://github.com/manipta/Color2GrayScale.git).
 <br>
